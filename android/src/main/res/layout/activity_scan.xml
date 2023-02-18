@@ -39,16 +39,16 @@
 
         <ImageView
             android:id="@+id/shut"
-            android:layout_width="165dp"
-            android:layout_height="165dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
             android:layout_centerInParent="true"
             android:background="@drawable/shut_button"
             app:tint="#FF00" />
 
         <ImageView
             android:id="@+id/gallery"
-            android:layout_width="150dp"
-            android:layout_height="150dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
             android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"
             android:background="@drawable/round_button"

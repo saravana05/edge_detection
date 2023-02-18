@@ -74,7 +74,7 @@
         android:background="@color/colorPrimary"
         >
 
-        <ImageView
+    <ImageView
             android:id="@+id/crop"
             android:layout_width="60dp"
             android:layout_height="60dp"
@@ -83,7 +83,6 @@
             android:padding="12dp"
             app:srcCompat="@drawable/ic_crop"
             app:tint="@android:color/white" />
-
     </RelativeLayout>
 
 </RelativeLayout>
